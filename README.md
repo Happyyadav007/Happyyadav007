@@ -53,14 +53,6 @@
 
 ---
 
-### 🔗 Connect with me:
-
-### 📬 Reach Me:
-
-[![LinkedIn](https://img.shields.io/badge/-Happy%20Yadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/happyyadav)](https://linkedin.com/in/happyyadav)
-[![Email](https://img.shields.io/badge/-happy.yadav.contact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happy.yadav.contact@gmail.com)](mailto:happy.yadav.contact@gmail.com)
-
-
 ### 🔗 Let's Connect:
 
 <p align="center">
@@ -70,10 +62,10 @@
   <a href="https://github.com/Happyyadav007" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" />
   </a>
-  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+  <a href="https://www.instagram.com/yadav_happy077" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" />
   </a>
-  <a href="https://twitter.com/your_x_username" target="_blank">
+  <a href="https://twitter.com/https://x.com/HappyYa59012634" target="_blank">
     <img src="https://img.icons8.com/ios-filled/48/000000/twitterx.png" width="40" />
   </a>
   <a href="mailto:happy.yadav.contact@gmail.com" target="_blank">
