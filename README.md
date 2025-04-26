@@ -12,7 +12,12 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/happyyadav/) | [Email](mailto:happy.yadav.contact@gmail.com)
 
-📄 Check out my [Portfolio Website](#) (add if you have one)
+📄 Check out my [Portfolio Website](#) (developing)
+
+## 🐍 GitHub Activity Snake
+
+![Snake animation](https://github.com/Happyyadav007/Happyyadav007/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
