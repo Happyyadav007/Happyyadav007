@@ -1,6 +1,10 @@
 # Hi there, I'm Happy Yadav 👋
 
-🚀 A passionate Full Stack Developer | MERN Stack Developer
+🚀 A passionate Full Stack Developer | MERN Stack Developer 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Happy+Yadav;MERN+Stack+Developer;Open+Source+Contributor;Let's+Build+Together!" alt="Typing SVG" />
+</p>
+
 
 🔭 I’m currently working on exciting MERN projects
 
