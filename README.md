@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Happy+Yadav;MERN+Stack+Developer;AI+Enthusiast+%26+Open+Source+Lover;Building+Scalable+Full-Stack+Apps;Let’s+Innovate+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Happy+Yadav;MERN+Stack+Developer;AI+Enthusiast+%26+Open+Source+Lover;Building+Scalable+Full-Stack+Apps;Let's+Innovate+Together!" alt="Typing SVG" />
 </p>
+
 
 🚀 I’m currently building real-world, scalable MERN stack applications
 
@@ -13,11 +14,6 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/happyyadav/) | [Email](mailto:happy.yadav.contact@gmail.com)
 
 🌐 My Portfolio: Coming soon at [happyyadav.dev](https://happyyadav.dev) 🚧
-
-
-## 🐍 GitHub Activity Snake
-
-![Snake animation](https://github.com/Happyyadav007/Happyyadav007/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
@@ -33,14 +29,10 @@
 
 ## 📈 GitHub Stats:
 
-![Happy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happyyadav007&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happyyadav007&layout=compact&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Happyyadav007&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happyyadav007&layout=compact&theme=radical" alt="Top Langs" height="165">
 </p>
-
 
 ---
 
@@ -50,6 +42,14 @@
 - 📬 [MailSender](https://github.com/Happyyadav007/Ai_powered_email_generator_app) – AI-powered email sender with Gemini integration
 - 🌐 [Portfolio Website](https://github.com/Happyyadav007/PortfolioWebsite) – Personal site to showcase skills (in progress)
 
+
+---
+
+## 🐍 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://github.com/Happyyadav007/Happyyadav007/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
 
 ---
 
