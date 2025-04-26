@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Happy+Yadav;MERN+Stack+Developer;AI+Enthusiast+%26+Open+Source+Lover;Building+Scalable+Full-Stack+Apps;Let’s+Innovate+Together!" alt="Typing SVG" />
+  <a href="https://github.com/Happyyadav007">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20I'm%20Happy%20Yadav;MERN%20Stack%20Developer;AI%20Enthusiast%20%26%20Open%20Source%20Lover;Building%20Full-Stack%20Apps;Let’s%20Innovate%20Together!&center=true&width=500&height=45">
+  </a>
 </p>
 
 ---
@@ -54,12 +56,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/happyyadav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/yadav_happy077" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/https://x.com/HappyYa59012634" target="_blank">
+  <a href="https://x.com/HappyYa59012634" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="mailto:happy.yadav.contact@gmail.com" target="_blank">
