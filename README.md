@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Happy+Yadav;MERN+Stack+Developer;Open+Source+Contributor;Let's+Build+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Happy+Yadav;MERN+Stack+Developer;AI+Enthusiast+%26+Open+Source+Lover;Building+Scalable+Full-Stack+Apps;Let’s+Innovate+Together!" alt="Typing SVG" />
 </p>
 
-🔭 I’m currently working on exciting MERN projects
+🚀 I’m currently building real-world, scalable MERN stack applications
 
 🌱 I’m currently learning Advanced Node.js, AI integration with MERN, and DSA for interviews
 
@@ -12,7 +12,8 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/happyyadav/) | [Email](mailto:happy.yadav.contact@gmail.com)
 
-📄 Check out my [Portfolio Website](#) (developing)
+🌐 My Portfolio: Coming soon at [happyyadav.dev](https://happyyadav.dev) 🚧
+
 
 ## 🐍 GitHub Activity Snake
 
@@ -35,22 +36,30 @@
 ![Happy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happyyadav007&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happyyadav007&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Happyyadav007&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happyyadav007&layout=compact&theme=radical" alt="Top Langs" height="165">
+</p>
+
+
 ---
 
-## 🚀 Latest Projects:
+### 🚀 Featured Projects
 
-- [CodeNode](https://github.com/Happyyadav007/CodeNode) - Ed-Tech Backend Platform
-- [MailSender](https://github.com/Happyyadav007/Ai_powered_email_generator_app) - Email Sending Web App
-- [Portfolio Website](https://github.com/Happyyadav007/PortfolioWebsite)
+- 🎓 [CodeNode](https://github.com/Happyyadav007/CodeNode) – Ed-Tech backend platform built with Node.js & MongoDB
+- 📬 [MailSender](https://github.com/Happyyadav007/Ai_powered_email_generator_app) – AI-powered email sender with Gemini integration
+- 🌐 [Portfolio Website](https://github.com/Happyyadav007/PortfolioWebsite) – Personal site to showcase skills (in progress)
+
 
 ---
 
 ### 🔗 Connect with me:
 
-<p align="left">
-<a href="https://linkedin.com/in/happyyadav" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:happy.yadav.contact@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="30" /></a>
-</p>
+### 📬 Reach Me:
+
+[![LinkedIn](https://img.shields.io/badge/-Happy%20Yadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/happyyadav)](https://linkedin.com/in/happyyadav)
+[![Email](https://img.shields.io/badge/-happy.yadav.contact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happy.yadav.contact@gmail.com)](mailto:happy.yadav.contact@gmail.com)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Happyyadav007&label=Profile%20views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/Happyyadav007?label=Followers&style=social)
