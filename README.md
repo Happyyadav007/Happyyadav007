@@ -21,7 +21,7 @@
 - **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Tools**: Git, Postman, AWS, VS Code
+- **Tools**: Git, Postman, AWS, VS Code, AI
 - **Other**: REST APIs, Responsive Design
 
 ---
