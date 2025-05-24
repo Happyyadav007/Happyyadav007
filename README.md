@@ -11,7 +11,7 @@
 - 🔭 Currently building exciting **MERN Stack** projects.
 - 🌱 Learning **Advanced Node.js**, **AI integrations**, and **DSA** for interviews.
 - 👯 Open to collaborating on **full-stack** projects and **startups**.
-- 💬 Ask me about **React.js, Node.js, MongoDB, Express, Git, AWS**.
+- 💬 Ask me about **React.js, Node.js, MongoDB, Express, Git, AWS, Data Structures & Algorithms**.
 - 📫 How to reach me: **LinkedIn**, **Instagram**, or **Email** (links below!).
 
 ---
