@@ -40,7 +40,7 @@
 
 - [CodeNode](https://github.com/Happyyadav007/CodeNode) — Scalable ed-tech backend platform.
 - [MailSender](https://github.com/Happyyadav007/Ai_powered_email_generator_app) — AI-powered email sending app.
-- [Portfolio Website](https://github.com/Happyyadav007/PortfolioWebsite) — Personal portfolio (coming soon!).
+- [Portfolio Website](https://happy-yadav-portfolio.vercel.app/) — Personal portfolio.
 
 ---
 
